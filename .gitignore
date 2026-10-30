@@ -3,3 +3,5 @@ data.js
 *.enc
 *.xlsx
 *.xls
+*.xlsb
+*.csv
